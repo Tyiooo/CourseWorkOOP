@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Account">
+    <Position X="9" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgACAAAAAEDIAAIABoAgBAABA+AEAgAAAAAIgAAFAA=</HashCode>
+      <FileName>Account.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clothes">
+    <Position X="3.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAABgIAIAAARAAARABoAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clothes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pants">
+    <Position X="6.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAABAAAAAAAAAAAAAAoAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Pants.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sweaters">
+    <Position X="6.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAIACAAAAAgAAIAAA=</HashCode>
+      <FileName>Sweaters.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
